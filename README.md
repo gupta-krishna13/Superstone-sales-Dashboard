@@ -80,8 +80,8 @@ This project demonstrates the use of **Power BI, DAX, data visualization, and bu
 ## 📁 Project Files
 
 ```text
-Superstore_Sales_Analysis_Dashboard.pbix   # Power BI Project File
-dashboard.png                              # Dashboard Screenshot
+Superstore_Sales.pbix                      # Power BI Project File
+Superstone sales Dashboard.png             # Dashboard Screenshot
 README.md                                  # Project Documentation
 ```
 
