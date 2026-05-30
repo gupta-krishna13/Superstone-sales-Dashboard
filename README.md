@@ -72,8 +72,8 @@ This project demonstrates the use of **Power BI, DAX, data visualization, and bu
 ---
 
 ## 📷 Dashboard Preview
+<img width="1283" height="723" alt="Superstore sales Dashboard" src="https://github.com/user-attachments/assets/ca90a599-53ec-47f4-aa65-f72efa032e56" />
 
-> Add your dashboard screenshot here.
 
 ---
 
